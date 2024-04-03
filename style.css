@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#verbDisplay {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#conjugationInput {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#answerInput {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#submitBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#submitBtn:hover {
+    background-color: #0056b3;
+}
+
+#errorDisplay {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ff0000;
+}
+
+#successDisplay {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* Style for the container */
+#conjugationsContainer {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 40px;
+    justify-content: center;
+}
+
+/* Style for each verb table */
+.verbTable {
+    border-collapse: collapse;
+}
+
+/* Style for the verb heading */
+.verbTable caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Style for the conjugation table */
+.verbTable table {
+    border: 1px solid #ccc;
+    width: 100%;
+}
+
+/* Style for table rows */
+.verbTable tr {
+    border-bottom: 1px solid #ccc;
+}
+
+/* Style for table cells */
+.verbTable td {
+    padding: 8px 16px;
+}
+
+/* Style for the first column */
+.verbTable td:first-child {
+    font-weight: bold;
+}
+
+/* Style for the example column */
+.verbTable td:last-child {
+    font-style: italic;
+}
+
+/* Define color scales */
+.very-poor {
+    background-color: #FFBEBE; /* Pastel red */
+}
+
+.poor {
+    background-color: #FFCCCC; /* Lighter red */
+}
+
+.average {
+    background-color: #FFFFCC; /* Pastel yellow */
+}
+
+.good {
+    background-color: #CCFFCC; /* Pastel green */
+}
+
+.excellent {
+    background-color: #CCFF99; /* Lighter green */
+}
+
+/* Style for the displayAllBtn button */
+#displayAllBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ccc; /* Light gray */
+    color: #333; /* Dark gray text */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block;
+    margin: 0 auto; /* Center horizontally */}
+
+#displayAllBtn:hover {
+    background-color: #ddd; /* Darker green */
+}
