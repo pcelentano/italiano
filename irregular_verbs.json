@@ -1,0 +1,98 @@
+{
+  "avere": {
+    "io": {"conjugation": "ho", "example": "Io ho un cane.", "score": 0},
+    "tu": {"conjugation": "hai", "example": "Tu hai fame.", "score": 0},
+    "lui_lei": {"conjugation": "ha", "example": "Lui ha una macchina.", "score": 0},
+    "noi": {"conjugation": "abbiamo", "example": "Noi abbiamo una casa.", "score": 0},
+    "voi": {"conjugation": "avete", "example": "Voi avete una bicicletta.", "score": 0},
+    "loro": {"conjugation": "hanno", "example": "Loro hanno dei libri.", "score": 0}
+  },
+  "essere": {
+    "io": {"conjugation": "sono", "example": "Io sono felice.", "score": 0},
+    "tu": {"conjugation": "sei", "example": "Tu sei italiano.", "score": 0},
+    "lui_lei": {"conjugation": "è", "example": "Lui è stanco.", "score": 0},
+    "noi": {"conjugation": "siamo", "example": "Noi siamo in ritardo.", "score": 0},
+    "voi": {"conjugation": "siete", "example": "Voi siete amici.", "score": 0},
+    "loro": {"conjugation": "sono", "example": "Loro sono studenti.", "score": 0}
+  },
+  "fare": {
+    "io": {"conjugation": "faccio", "example": "Io faccio sport.", "score": 0},
+    "tu": {"conjugation": "fai", "example": "Tu fai la spesa.", "score": 0},
+    "lui_lei": {"conjugation": "fa", "example": "Lei fa una torta.", "score": 0},
+    "noi": {"conjugation": "facciamo", "example": "Noi facciamo una passeggiata.", "score": 0},
+    "voi": {"conjugation": "fate", "example": "Voi fate jogging.", "score": 0},
+    "loro": {"conjugation": "fanno", "example": "Loro fanno shopping.", "score": 0}
+  },
+  "andare": {
+    "io": {"conjugation": "vado", "example": "Io vado al lavoro.", "score": 0},
+    "tu": {"conjugation": "vai", "example": "Tu vai al cinema.", "score": 0},
+    "lui_lei": {"conjugation": "va", "example": "Lui va al parco.", "score": 0},
+    "noi": {"conjugation": "andiamo", "example": "Noi andiamo al mare.", "score": 0},
+    "voi": {"conjugation": "andate", "example": "Voi andate a scuola.", "score": 0},
+    "loro": {"conjugation": "vanno", "example": "Loro vanno in vacanza.", "score": 0}
+  },
+  "venire": {
+    "io": {"conjugation": "vengo", "example": "Io vengo al cinema.", "score": 0},
+    "tu": {"conjugation": "vieni", "example": "Tu vieni con me.", "score": 0},
+    "lui_lei": {"conjugation": "viene", "example": "Lui viene a casa mia.", "score": 0},
+    "noi": {"conjugation": "veniamo", "example": "Noi veniamo in ritardo.", "score": 0},
+    "voi": {"conjugation": "venite", "example": "Voi venite con noi.", "score": 0},
+    "loro": {"conjugation": "vengono", "example": "Loro vengono all'evento.", "score": 0}
+  },
+  "uscire": {
+    "io": {"conjugation": "esco", "example": "Io esco con gli amici.", "score": 0},
+    "tu": {"conjugation": "esci", "example": "Tu esci di casa.", "score": 0},
+    "lui_lei": {"conjugation": "esce", "example": "Lei esce dall'ufficio.", "score": 0},
+    "noi": {"conjugation": "usciamo", "example": "Noi usciamo per una passeggiata.", "score": 0},
+    "voi": {"conjugation": "uscite", "example": "Voi uscite stasera.", "score": 0},
+    "loro": {"conjugation": "escono", "example": "Loro escono a cena.", "score": 0}
+  },
+  "volere": {
+    "io": {"conjugation": "voglio", "example": "Io voglio imparare l'italiano.", "score": 0},
+    "tu": {"conjugation": "vuoi", "example": "Tu vuoi una pizza.", "score": 0},
+    "lui_lei": {"conjugation": "vuole", "example": "Lei vuole una risposta.", "score": 0},
+    "noi": {"conjugation": "vogliamo", "example": "Noi vogliamo viaggiare.", "score": 0},
+    "voi": {"conjugation": "volete", "example": "Voi volete andare al cinema.", "score": 0},
+    "loro": {"conjugation": "vogliono", "example": "Loro vogliono festeggiare.", "score": 0}
+  },
+  "potere": {
+    "io": {"conjugation": "posso", "example": "Io posso aiutarti.", "score": 0},
+    "tu": {"conjugation": "puoi", "example": "Tu puoi fare tutto.", "score": 0},
+    "lui_lei": {"conjugation": "può", "example": "Lui può venire domani.", "score": 0},
+    "noi": {"conjugation": "possiamo", "example": "Noi possiamo andare insieme.", "score": 0},
+    "voi": {"conjugation": "potete", "example": "Voi potete partecipare.", "score": 0},
+    "loro": {"conjugation": "possono", "example": "Loro possono mangiare.", "score": 0}
+  },
+  "dovere": {
+    "io": {"conjugation": "devo", "example": "Io devo studiare.", "score": 0},
+    "tu": {"conjugation": "devi", "example": "Tu devi lavorare.", "score": 0},
+    "lui_lei": {"conjugation": "deve", "example": "Lui deve partire presto.", "score": 0},
+    "noi": {"conjugation": "dobbiamo", "example": "Noi dobbiamo prepararci.", "score": 0},
+    "voi": {"conjugation": "dovete", "example": "Voi dovete telefonare.", "score": 0},
+    "loro": {"conjugation": "devono", "example": "Loro devono fare i compiti.", "score": 0}
+  },
+  "sapere": {
+    "io": {"conjugation": "so", "example": "Io so nuotare.", "score": 0},
+    "tu": {"conjugation": "sai", "example": "Tu sai parlare italiano.", "score": 0},
+    "lui_lei": {"conjugation": "sa", "example": "Lei sa suonare il pianoforte.", "score": 0},
+    "noi": {"conjugation": "sappiamo", "example": "Noi sappiamo cucinare.", "score": 0},
+    "voi": {"conjugation": "sapete", "example": "Voi sapete la risposta.", "score": 0},
+    "loro": {"conjugation": "sanno", "example": "Loro sanno ballare.", "score": 0}
+  },
+  "dire": {
+    "io": {"conjugation": "dico", "example": "Io dico sempre la verità.", "score": 0},
+    "tu": {"conjugation": "dici", "example": "Tu dici delle bugie.", "score": 0},
+    "lui_lei": {"conjugation": "dice", "example": "Lei dice sempre \"ciao\".", "score": 0},
+    "noi": {"conjugation": "diciamo", "example": "Noi diciamo le nostre opinioni.", "score": 0},
+    "voi": {"conjugation": "dite", "example": "Voi dite cose interessanti.", "score": 0},
+    "loro": {"conjugation": "dicono", "example": "Loro dicono \"grazie\".", "score": 0}
+  },
+  "bere": {
+    "io": {"conjugation": "bevo", "example": "Io bevo acqua.", "score": 0},
+    "tu": {"conjugation": "bevi", "example": "Tu bevi il caffè.", "score": 0},
+    "lui_lei": {"conjugation": "beve", "example": "Lui beve il succo.", "score": 0},
+    "noi": {"conjugation": "beviamo", "example": "Noi beviamo vino.", "score": 0},
+    "voi": {"conjugation": "bevete", "example": "Voi bevete la birra.", "score": 0},
+    "loro": {"conjugation": "bevono", "example": "Loro bevono il tè.", "score": 0}
+  }
+}
