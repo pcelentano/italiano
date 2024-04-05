@@ -1,0 +1,34 @@
+{
+  "leggere": {
+    "io": {"conjugation": "leggo", "example": "Io leggo un libro.", "score": 0},
+    "tu": {"conjugation": "leggi", "example": "Tu leggi il giornale.", "score": 0},
+    "lui_lei": {"conjugation": "legge", "example": "Lui legge la poesia.", "score": 0},
+    "noi": {"conjugation": "leggiamo", "example": "Noi leggiamo la rivista.", "score": 0},
+    "voi": {"conjugation": "leggiete", "example": "Voi leggete la lettera.", "score": 0},
+    "loro": {"conjugation": "leggono", "example": "Loro leggono il romanzo.", "score": 0}
+  },
+  "vedere": {
+    "io": {"conjugation": "vedo", "example": "Io vedo la televisione.", "score": 0},
+    "tu": {"conjugation": "vedi", "example": "Tu vedi un film.", "score": 0},
+    "lui_lei": {"conjugation": "vede", "example": "Lui vede lo spettacolo.", "score": 0},
+    "noi": {"conjugation": "vediamo", "example": "Noi vediamo il concerto.", "score": 0},
+    "voi": {"conjugation": "vedete", "example": "Voi vedete la partita.", "score": 0},
+    "loro": {"conjugation": "vedono", "example": "Loro vedono la mostra.", "score": 0}
+  },
+  "scrivere": {
+    "io": {"conjugation": "scrivo", "example": "Io scrivo una lettera.", "score": 0},
+    "tu": {"conjugation": "scrivi", "example": "Tu scrivi un messaggio.", "score": 0},
+    "lui_lei": {"conjugation": "scrive", "example": "Lui scrive un poema.", "score": 0},
+    "noi": {"conjugation": "scriviamo", "example": "Noi scriviamo un racconto.", "score": 0},
+    "voi": {"conjugation": "scrivete", "example": "Voi scrivete una nota.", "score": 0},
+    "loro": {"conjugation": "scrivono", "example": "Loro scrivono un articolo.", "score": 0}
+  },
+  "correre": {
+    "io": {"conjugation": "corro", "example": "Io corro al parco.", "score": 0},
+    "tu": {"conjugation": "corri", "example": "Tu corri veloce.", "score": 0},
+    "lui_lei": {"conjugation": "corre", "example": "Lui corre in pista.", "score": 0},
+    "noi": {"conjugation": "corriamo", "example": "Noi corriamo ogni giorno.", "score": 0},
+    "voi": {"conjugation": "correte", "example": "Voi correte insieme.", "score": 0},
+    "loro": {"conjugation": "corrono", "example": "Loro corrono maratone.", "score": 0}
+  }
+}

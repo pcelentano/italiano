@@ -1,0 +1,34 @@
+{
+  "parlare": {
+    "io": {"conjugation": "parlo", "example": "Io parlo italiano.", "score": 0},
+    "tu": {"conjugation": "parli", "example": "Tu parli francese.", "score": 0},
+    "lui_lei": {"conjugation": "parla", "example": "Lui parla spagnolo.", "score": 0},
+    "noi": {"conjugation": "parliamo", "example": "Noi parliamo inglese.", "score": 0},
+    "voi": {"conjugation": "parlate", "example": "Voi parlate tedesco.", "score": 0},
+    "loro": {"conjugation": "parlano", "example": "Loro parlano cinese.", "score": 0}
+  },
+  "mangiare": {
+    "io": {"conjugation": "mangio", "example": "Io mangio la pizza.", "score": 0},
+    "tu": {"conjugation": "mangi", "example": "Tu mangi la pasta.", "score": 0},
+    "lui_lei": {"conjugation": "mangia", "example": "Lui mangia il gelato.", "score": 0},
+    "noi": {"conjugation": "mangiamo", "example": "Noi mangiamo il pane.", "score": 0},
+    "voi": {"conjugation": "mangiate", "example": "Voi mangiate la carne.", "score": 0},
+    "loro": {"conjugation": "mangiano", "example": "Loro mangiano la frutta.", "score": 0}
+  },
+  "cercare": {
+    "io": {"conjugation": "cerco", "example": "Io cerco lavoro.", "score": 0},
+    "tu": {"conjugation": "cerchi", "example": "Tu cerchi informazioni.", "score": 0},
+    "lui_lei": {"conjugation": "cerca", "example": "Lui cerca una casa.", "score": 0},
+    "noi": {"conjugation": "cerchiamo", "example": "Noi cerchiamo un ristorante.", "score": 0},
+    "voi": {"conjugation": "cercate", "example": "Voi cercate un amico.", "score": 0},
+    "loro": {"conjugation": "cercano", "example": "Loro cercano lavoro.", "score": 0}
+  },
+  "nuotare": {
+    "io": {"conjugation": "nuoto", "example": "Io nuoto nel mare.", "score": 0},
+    "tu": {"conjugation": "nuoti", "example": "Tu nuoti in piscina.", "score": 0},
+    "lui_lei": {"conjugation": "nuota", "example": "Lui nuota veloce.", "score": 0},
+    "noi": {"conjugation": "nuotiamo", "example": "Noi nuotiamo ogni giorno.", "score": 0},
+    "voi": {"conjugation": "nuotate", "example": "Voi nuotate bene.", "score": 0},
+    "loro": {"conjugation": "nuotano", "example": "Loro nuotano insieme.", "score": 0}
+  }
+}

@@ -3,29 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Italian Verb Conjugator</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Italian Verb Conjugation Game</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-<div class="container">
-    <h1>Italian Verb Conjugator</h1>
-    <div id="verbDisplay">
-        <!-- Verb to be displayed dynamically -->
+<h1>Italian Verb Conjugation Game</h1>
+
+<p>Please select the type(s) of verbs:</p>
+
+<div id="optionsGrid" class="options-grid">
+    <div class="option irregular">
+        <input type="checkbox" id="irregular" class="checkbox">
+        <label>Irregular Verbs</label>
+        <p class="explanation">Irregular verbs have unpredictable conjugations.</p>
     </div>
-    <div id="conjugationInput">
-        <input type="text" id="answerInput" placeholder="Enter conjugated form">
-        <button id="submitBtn">Submit</button>
+    <div class="option regular-are">
+        <input type="checkbox" id="regular_are" class="checkbox">
+        <label>Regular Verbs ending with ARE</label>
+        <p class="explanation">Regular verbs ending with ARE follow a specific pattern in conjugation.</p>
     </div>
-    <div id="errorDisplay">
-        <!-- Feedback message to be displayed dynamically -->
+    <div class="option regular-ere">
+        <input type="checkbox" id="regular_ere" class="checkbox">
+        <label>Regular Verbs ending with ERE</label>
+        <p class="explanation">Regular verbs ending with ERE follow a specific pattern in conjugation.</p>
     </div>
-    <div id="successDisplay">
-        <!-- Score to be displayed dynamically -->
+    <div class="option regular-ire">
+        <input type="checkbox" id="regular_ire" class="checkbox">
+        <label>Regular Verbs ending with IRE</label>
+        <p class="explanation">Regular verbs ending with IRE follow a specific pattern in conjugation.</p>
     </div>
 </div>
 
-<button id="displayAllBtn">Display All Conjugations</button>
-<div id="conjugationsContainer"></div>
-<script src="script.js"></script>
+<button id="startGame">Start Game</button>
+
+<script src="index.js"></script>
 </body>
 </html>

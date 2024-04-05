@@ -1,0 +1,58 @@
+{
+  "dormire": {
+    "io": {"conjugation": "dormo", "example": "Io dormo bene la notte.", "score": 0},
+    "tu": {"conjugation": "dormi", "example": "Tu dormi nel letto nuovo.", "score": 0},
+    "lui_lei": {"conjugation": "dorme", "example": "Lui dorme profondamente.", "score": 0},
+    "noi": {"conjugation": "dormiamo", "example": "Noi dormiamo dopo cena.", "score": 0},
+    "voi": {"conjugation": "dormite", "example": "Voi dormite poco.", "score": 0},
+    "loro": {"conjugation": "dormono", "example": "Loro dormono in camera doppia.", "score": 0}
+  },
+  "partire": {
+    "io": {"conjugation": "parto", "example": "Io parto domani mattina.", "score": 0},
+    "tu": {"conjugation": "parti", "example": "Tu parti con il treno.", "score": 0},
+    "lui_lei": {"conjugation": "parte", "example": "Lui parte per l'Italia.", "score": 0},
+    "noi": {"conjugation": "partiamo", "example": "Noi partiamo presto.", "score": 0},
+    "voi": {"conjugation": "partite", "example": "Voi partite in vacanza.", "score": 0},
+    "loro": {"conjugation": "partono", "example": "Loro partono alle sei.", "score": 0}
+  },
+  "aprire": {
+    "io": {"conjugation": "apro", "example": "Io apro la porta.", "score": 0},
+    "tu": {"conjugation": "apri", "example": "Tu apri la finestra.", "score": 0},
+    "lui_lei": {"conjugation": "apre", "example": "Lui apre il libro.", "score": 0},
+    "noi": {"conjugation": "apriamo", "example": "Noi apriamo il negozio.", "score": 0},
+    "voi": {"conjugation": "aprite", "example": "Voi aprite la scatola.", "score": 0},
+    "loro": {"conjugation": "aprano", "example": "Loro aprano la finestra.", "score": 0}
+  },
+  "sentire": {
+    "io": {"conjugation": "sento", "example": "Io sento il rumore.", "score": 0},
+    "tu": {"conjugation": "senti", "example": "Tu senti la musica.", "score": 0},
+    "lui_lei": {"conjugation": "sente", "example": "Lui sente il profumo.", "score": 0},
+    "noi": {"conjugation": "sentiamo", "example": "Noi sentiamo il vento.", "score": 0},
+    "voi": {"conjugation": "sentite", "example": "Voi sentite il caldo.", "score": 0},
+    "loro": {"conjugation": "sentono", "example": "Loro sentono la felicità.", "score": 0}
+  },
+  "capire": {
+    "io": {"conjugation": "capisco", "example": "Io capisco l'italiano.", "score": 0},
+    "tu": {"conjugation": "capisci", "example": "Tu capisci la lezione.", "score": 0},
+    "lui_lei": {"conjugation": "capisce", "example": "Lui capisce la situazione.", "score": 0},
+    "noi": {"conjugation": "capiamo", "example": "Noi capiamo il problema.", "score": 0},
+    "voi": {"conjugation": "capite", "example": "Voi capite le istruzioni.", "score": 0},
+    "loro": {"conjugation": "capiscono", "example": "Loro capiscono il significato.", "score": 0}
+  },
+  "finire": {
+    "io": {"conjugation": "finisco", "example": "Io finisco il lavoro.", "score": 0},
+    "tu": {"conjugation": "finisci", "example": "Tu finisci il libro.", "score": 0},
+    "lui_lei": {"conjugation": "finisce", "example": "Lui finisce la cena.", "score": 0},
+    "noi": {"conjugation": "finiamo", "example": "Noi finiamo la lezione.", "score": 0},
+    "voi": {"conjugation": "finite", "example": "Voi finite il compito.", "score": 0},
+    "loro": {"conjugation": "finiscono", "example": "Loro finiscono presto.", "score": 0}
+  },
+  "preferire": {
+    "io": {"conjugation": "preferisco", "example": "Io preferisco il caffè al tè.", "score": 0},
+    "tu": {"conjugation": "preferisci", "example": "Tu preferisci viaggiare in treno.", "score": 0},
+    "lui_lei": {"conjugation": "preferisce", "example": "Lui preferisce la pizza alla pasta.", "score": 0},
+    "noi": {"conjugation": "preferiamo", "example": "Noi preferiamo il cinema al teatro.", "score": 0},
+    "voi": {"conjugation": "preferite", "example": "Voi preferite fare sport.", "score": 0},
+    "loro": {"conjugation": "preferiscono", "example": "Loro preferiscono leggere libri.", "score": 0}
+  }
+}

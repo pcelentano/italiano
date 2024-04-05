@@ -1,5 +1,14 @@
 // Hardcoded present tense conjugations for the verbs "avere", "essere", and "fare"
 
+let verbConjugations = {};
+
+// Function to parse query string and get all options
+function parseQueryString() {
+    return new URLSearchParams(window.location.search).getAll('option');
+}
+
+// Function to construct file path based on option
+// Function to fetch JSON file
 async function fetchJSONFile(filePath) {
     try {
         const response = await fetch(filePath);
@@ -10,17 +19,25 @@ async function fetchJSONFile(filePath) {
     }
 }
 
-const filePath = 'irregular_verbs.json';
-let verbConjugations = {}
+// Load JSON files based on query string options
+const options = parseQueryString();
+const promises = options.map(option => {
+    return fetchJSONFile(`${option}.json`);
+});
 
-fetchJSONFile(filePath)
-    .then(fromFile => {
-        if (fromFile) {
-            console.log(fromFile);
-            verbConjugations = fromFile
-            // Display a random verb when the page loads
-            displayRandomVerb();
-        }
+Promise.all(promises)
+    .then(results => {
+        results.forEach(result => {
+            if (result) {
+                console.log(result);
+                // Merge the result into verbConjugations
+                Object.assign(verbConjugations, result);
+            }
+        });
+        displayRandomVerb();
+    })
+    .catch(error => {
+        console.error('Error loading JSON files:', error);
     });
 
 
