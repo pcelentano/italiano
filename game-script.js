@@ -32,6 +32,13 @@ Promise.all(promises)
                 console.log(result);
                 // Merge the result into verbConjugations
                 Object.assign(verbConjugations, result);
+                if (options.includes("imperfetto")) {
+                    document.getElementById('gameName').textContent = "Imperfetto Conjugator";
+                } else if (options.includes("passato_prossimo")) {
+                    document.getElementById('gameName').textContent = "Passato Prossimo Conjugator";
+                } else {
+                    document.getElementById('gameName').textContent = "Infinito Conjugator";
+                }
             }
         });
         displayRandomVerb();

@@ -1,0 +1,114 @@
+{
+  "parlare": {
+    "io": {"conjugation": "ho parlato", "example": "Io ho parlato con lui.", "score": 0},
+    "tu": {"conjugation": "hai parlato", "example": "Tu hai parlato al telefono.", "score": 0},
+    "lui_lei": {"conjugation": "ha parlato", "example": "Lui ha parlato di politica.", "score": 0},
+    "noi": {"conjugation": "abbiamo parlato", "example": "Noi abbiamo parlato tutto il giorno.", "score": 0},
+    "voi": {"conjugation": "avete parlato", "example": "Voi avete parlato con gli amici.", "score": 0},
+    "loro": {"conjugation": "hanno parlato", "example": "Loro hanno parlato di lavoro.", "score": 0}
+  },
+  "mangiare": {
+    "io": {"conjugation": "ho mangiato", "example": "Io ho mangiato una pizza.", "score": 0},
+    "tu": {"conjugation": "hai mangiato", "example": "Tu hai mangiato la pasta.", "score": 0},
+    "lui_lei": {"conjugation": "ha mangiato", "example": "Lei ha mangiato un gelato.", "score": 0},
+    "noi": {"conjugation": "abbiamo mangiato", "example": "Noi abbiamo mangiato insieme.", "score": 0},
+    "voi": {"conjugation": "avete mangiato", "example": "Voi avete mangiato in ristorante.", "score": 0},
+    "loro": {"conjugation": "hanno mangiato", "example": "Loro hanno mangiato troppo.", "score": 0}
+  },
+  "amare": {
+    "io": {"conjugation": "ho amato", "example": "Io ho amato la musica.", "score": 0},
+    "tu": {"conjugation": "hai amato", "example": "Tu hai amato il film.", "score": 0},
+    "lui_lei": {"conjugation": "ha amato", "example": "Lui ha amato l'arte.", "score": 0},
+    "noi": {"conjugation": "abbiamo amato", "example": "Noi abbiamo amato la vacanza.", "score": 0},
+    "voi": {"conjugation": "avete amato", "example": "Voi avete amato lo spettacolo.", "score": 0},
+    "loro": {"conjugation": "hanno amato", "example": "Loro hanno amato la serata.", "score": 0}
+  },
+  "giocare": {
+    "io": {"conjugation": "ho giocato", "example": "Io ho giocato a calcio.", "score": 0},
+    "tu": {"conjugation": "hai giocato", "example": "Tu hai giocato a tennis.", "score": 0},
+    "lui_lei": {"conjugation": "ha giocato", "example": "Lui ha giocato a basket.", "score": 0},
+    "noi": {"conjugation": "abbiamo giocato", "example": "Noi abbiamo giocato a pallavolo.", "score": 0},
+    "voi": {"conjugation": "avete giocato", "example": "Voi avete giocato a scacchi.", "score": 0},
+    "loro": {"conjugation": "hanno giocato", "example": "Loro hanno giocato a carte.", "score": 0}
+  },
+  "andare": {
+    "io": {"conjugation": "sono andato", "example": "Io sono andato al cinema.", "score": 0},
+    "tu": {"conjugation": "sei andato", "example": "Tu sei andato a scuola.", "score": 0},
+    "lui_lei": {"conjugation": "è andato", "example": "Lui è andato in Italia.", "score": 0},
+    "noi": {"conjugation": "siamo andati", "example": "Noi siamo andati in montagna.", "score": 0},
+    "voi": {"conjugation": "siete andati", "example": "Voi siete andati al mare.", "score": 0},
+    "loro": {"conjugation": "sono andati", "example": "Loro sono andati al concerto.", "score": 0}
+  },
+  "arrivare": {
+    "io": {"conjugation": "sono arrivato", "example": "Io sono arrivato presto.", "score": 0},
+    "tu": {"conjugation": "sei arrivato", "example": "Tu sei arrivato in ritardo.", "score": 0},
+    "lui_lei": {"conjugation": "è arrivato", "example": "Lui è arrivato ieri.", "score": 0},
+    "noi": {"conjugation": "siamo arrivati", "example": "Noi siamo arrivati insieme.", "score": 0},
+    "voi": {"conjugation": "siete arrivati", "example": "Voi siete arrivati tardi.", "score": 0},
+    "loro": {"conjugation": "sono arrivati", "example": "Loro sono arrivati a casa.", "score": 0}
+  },
+  "rimanere": {
+    "io": {"conjugation": "sono rimasto", "example": "Io sono rimasto a casa.", "score": 0},
+    "tu": {"conjugation": "sei rimasto", "example": "Tu sei rimasto in ufficio.", "score": 0},
+    "lui_lei": {"conjugation": "è rimasto", "example": "Lui è rimasto in città.", "score": 0},
+    "noi": {"conjugation": "siamo rimasti", "example": "Noi siamo rimasti fino a tardi.", "score": 0},
+    "voi": {"conjugation": "siete rimasti", "example": "Voi siete rimasti per cena.", "score": 0},
+    "loro": {"conjugation": "sono rimasti", "example": "Loro sono rimasti a lungo.", "score": 0}
+  },
+  "nascere": {
+    "io": {"conjugation": "sono nato", "example": "Io sono nato in Italia.", "score": 0},
+    "tu": {"conjugation": "sei nato", "example": "Tu sei nato a Roma.", "score": 0},
+    "lui_lei": {"conjugation": "è nato", "example": "Lui è nato nel 1990.", "score": 0},
+    "noi": {"conjugation": "siamo nati", "example": "Noi siamo nati nello stesso anno.", "score": 0},
+    "voi": {"conjugation": "siete nati", "example": "Voi siete nati in estate.", "score": 0},
+    "loro": {"conjugation": "sono nati", "example": "Loro sono nati in Italia.", "score": 0}
+  },
+  "prendere": {
+    "io": {"conjugation": "ho preso", "example": "Io ho preso un caffè.", "score": 0},
+    "tu": {"conjugation": "hai preso", "example": "Tu hai preso l'autobus.", "score": 0},
+    "lui_lei": {"conjugation": "ha preso", "example": "Lui ha preso il libro.", "score": 0},
+    "noi": {"conjugation": "abbiamo preso", "example": "Noi abbiamo preso una pausa.", "score": 0},
+    "voi": {"conjugation": "avete preso", "example": "Voi avete preso il treno.", "score": 0},
+    "loro": {"conjugation": "hanno preso", "example": "Loro hanno preso un taxi.", "score": 0}
+  },
+  "scrivere": {
+    "io": {"conjugation": "ho scritto", "example": "Io ho scritto una lettera.", "score": 0},
+    "tu": {"conjugation": "hai scritto", "example": "Tu hai scritto un racconto.", "score": 0},
+    "lui_lei": {"conjugation": "ha scritto", "example": "Lui ha scritto un articolo.", "score": 0},
+    "noi": {"conjugation": "abbiamo scritto", "example": "Noi abbiamo scritto un libro.", "score": 0},
+    "voi": {"conjugation": "avete scritto", "example": "Voi avete scritto una poesia.", "score": 0},
+    "loro": {"conjugation": "hanno scritto", "example": "Loro hanno scritto molte email.", "score": 0}
+  },
+  "essere": {
+    "io": {"conjugation": "sono stato", "example": "Io sono stato a Roma.", "score": 0},
+    "tu": {"conjugation": "sei stato", "example": "Tu sei stato in vacanza.", "score": 0},
+    "lui_lei": {"conjugation": "è stato", "example": "Lui è stato al mare.", "score": 0},
+    "noi": {"conjugation": "siamo stati", "example": "Noi siamo stati in montagna.", "score": 0},
+    "voi": {"conjugation": "siete stati", "example": "Voi siete stati al concerto.", "score": 0},
+    "loro": {"conjugation": "sono stati", "example": "Loro sono stati in spiaggia.", "score": 0}
+  },
+  "avere": {
+    "io": {"conjugation": "ho avuto", "example": "Io ho avuto fame.", "score": 0},
+    "tu": {"conjugation": "hai avuto", "example": "Tu hai avuto freddo.", "score": 0},
+    "lui_lei": {"conjugation": "ha avuto", "example": "Lui ha avuto successo.", "score": 0},
+    "noi": {"conjugation": "abbiamo avuto", "example": "Noi abbiamo avuto fortuna.", "score": 0},
+    "voi": {"conjugation": "avete avuto", "example": "Voi avete avuto problemi.", "score": 0},
+    "loro": {"conjugation": "hanno avuto", "example": "Loro hanno avuto gioia.", "score": 0}
+  },
+  "fare": {
+    "io": {"conjugation": "ho fatto", "example": "Io ho fatto una passeggiata.", "score": 0},
+    "tu": {"conjugation": "hai fatto", "example": "Tu hai fatto colazione.", "score": 0},
+    "lui_lei": {"conjugation": "ha fatto", "example": "Lui ha fatto un viaggio.", "score": 0},
+    "noi": {"conjugation": "abbiamo fatto", "example": "Noi abbiamo fatto una festa.", "score": 0},
+    "voi": {"conjugation": "avete fatto", "example": "Voi avete fatto una gita.", "score": 0},
+    "loro": {"conjugation": "hanno fatto", "example": "Loro hanno fatto una cena.", "score": 0}
+  },
+  "dire": {
+    "io": {"conjugation": "ho detto", "example": "Io ho detto la verità.", "score": 0},
+    "tu": {"conjugation": "hai detto", "example": "Tu hai detto una bugia.", "score": 0},
+    "lui_lei": {"conjugation": "ha detto", "example": "Lui ha detto una battuta.", "score": 0},
+    "noi": {"conjugation": "abbiamo detto", "example": "Noi abbiamo detto addio.", "score": 0},
+    "voi": {"conjugation": "avete detto", "example": "Voi avete detto buongiorno.", "score": 0},
+    "loro": {"conjugation": "hanno detto", "example": "Loro hanno detto arrivederci.", "score": 0}
+  }
+}

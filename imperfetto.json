@@ -1,0 +1,130 @@
+{
+  "essere": {
+    "io": {"conjugation": "ero", "example": "Io ero felice.", "score": 0},
+    "tu": {"conjugation": "eri", "example": "Tu eri stanco.", "score": 0},
+    "lui_lei": {"conjugation": "era", "example": "Lei era a casa.", "score": 0},
+    "noi": {"conjugation": "eravamo", "example": "Noi eravamo amici.", "score": 0},
+    "voi": {"conjugation": "eravate", "example": "Voi eravate pronti.", "score": 0},
+    "loro": {"conjugation": "erano", "example": "Loro erano studenti.", "score": 0}
+  },
+  "avere": {
+    "io": {"conjugation": "avevo", "example": "Io avevo un cane.", "score": 0},
+    "tu": {"conjugation": "avevi", "example": "Tu avevi un libro.", "score": 0},
+    "lui_lei": {"conjugation": "aveva", "example": "Lui aveva una macchina.", "score": 0},
+    "noi": {"conjugation": "avevamo", "example": "Noi avevamo dei compiti.", "score": 0},
+    "voi": {"conjugation": "avevate", "example": "Voi avevate una casa.", "score": 0},
+    "loro": {"conjugation": "avevano", "example": "Loro avevano un progetto.", "score": 0}
+  },
+  "fare": {
+    "io": {"conjugation": "facevo", "example": "Io facevo sport.", "score": 0},
+    "tu": {"conjugation": "facevi", "example": "Tu facevi una torta.", "score": 0},
+    "lui_lei": {"conjugation": "faceva", "example": "Lui faceva una passeggiata.", "score": 0},
+    "noi": {"conjugation": "facevamo", "example": "Noi facevamo le valigie.", "score": 0},
+    "voi": {"conjugation": "facevate", "example": "Voi facevate attenzione.", "score": 0},
+    "loro": {"conjugation": "facevano", "example": "Loro facevano i compiti.", "score": 0}
+  },
+  "dire": {
+    "io": {"conjugation": "dicevo", "example": "Io dicevo la verità.", "score": 0},
+    "tu": {"conjugation": "dicevi", "example": "Tu dicevi sempre sì.", "score": 0},
+    "lui_lei": {"conjugation": "diceva", "example": "Lei diceva di no.", "score": 0},
+    "noi": {"conjugation": "dicevamo", "example": "Noi dicevamo le stesse cose.", "score": 0},
+    "voi": {"conjugation": "dicevate", "example": "Voi dicevate bugie.", "score": 0},
+    "loro": {"conjugation": "dicevano", "example": "Loro dicevano parole gentili.", "score": 0}
+  },
+  "amare": {
+    "io": {"conjugation": "amavo", "example": "Io amavo la musica.", "score": 0},
+    "tu": {"conjugation": "amavi", "example": "Tu amavi il cinema.", "score": 0},
+    "lui_lei": {"conjugation": "amava", "example": "Lui amava l'arte.", "score": 0},
+    "noi": {"conjugation": "amavamo", "example": "Noi amavamo la natura.", "score": 0},
+    "voi": {"conjugation": "amavate", "example": "Voi amavate il teatro.", "score": 0},
+    "loro": {"conjugation": "amavano", "example": "Loro amavano la poesia.", "score": 0}
+  },
+  "cantare": {
+    "io": {"conjugation": "cantavo", "example": "Io cantavo una canzone.", "score": 0},
+    "tu": {"conjugation": "cantavi", "example": "Tu cantavi in coro.", "score": 0},
+    "lui_lei": {"conjugation": "cantava", "example": "Lei cantava sul palco.", "score": 0},
+    "noi": {"conjugation": "cantavamo", "example": "Noi cantavamo insieme.", "score": 0},
+    "voi": {"conjugation": "cantavate", "example": "Voi cantavate alle feste.", "score": 0},
+    "loro": {"conjugation": "cantavano", "example": "Loro cantavano melodie.", "score": 0}
+  },
+  "giocare": {
+    "io": {"conjugation": "giocavo", "example": "Io giocavo a calcio.", "score": 0},
+    "tu": {"conjugation": "giocavi", "example": "Tu giocavi a tennis.", "score": 0},
+    "lui_lei": {"conjugation": "giocava", "example": "Lui giocava a basket.", "score": 0},
+    "noi": {"conjugation": "giocavamo", "example": "Noi giocavamo a pallavolo.", "score": 0},
+    "voi": {"conjugation": "giocavate", "example": "Voi giocavate a scacchi.", "score": 0},
+    "loro": {"conjugation": "giocavano", "example": "Loro giocavano a carte.", "score": 0}
+  },
+  "studiare": {
+    "io": {"conjugation": "studiavo", "example": "Io studiavo matematica.", "score": 0},
+    "tu": {"conjugation": "studiavi", "example": "Tu studiavi storia.", "score": 0},
+    "lui_lei": {"conjugation": "studiava", "example": "Lei studiava letteratura.", "score": 0},
+    "noi": {"conjugation": "studiavamo", "example": "Noi studiavamo insieme.", "score": 0},
+    "voi": {"conjugation": "studiavate", "example": "Voi studiavate per l'esame.", "score": 0},
+    "loro": {"conjugation": "studiavano", "example": "Loro studiavano biologia.", "score": 0}
+  },
+  "leggere": {
+    "io": {"conjugation": "leggevo", "example": "Io leggevo un libro.", "score": 0},
+    "tu": {"conjugation": "leggevi", "example": "Tu leggevi il giornale.", "score": 0},
+    "lui_lei": {"conjugation": "leggeva", "example": "Lei leggeva una rivista.", "score": 0},
+    "noi": {"conjugation": "leggevamo", "example": "Noi leggevamo insieme.", "score": 0},
+    "voi": {"conjugation": "leggevate", "example": "Voi leggevate molte storie.", "score": 0},
+    "loro": {"conjugation": "leggevano", "example": "Loro leggevano ogni giorno.", "score": 0}
+  },
+  "scrivere": {
+    "io": {"conjugation": "scrivevo", "example": "Io scrivevo una lettera.", "score": 0},
+    "tu": {"conjugation": "scrivevi", "example": "Tu scrivevi un racconto.", "score": 0},
+    "lui_lei": {"conjugation": "scriveva", "example": "Lui scriveva un diario.", "score": 0},
+    "noi": {"conjugation": "scrivevamo", "example": "Noi scrivevamo articoli.", "score": 0},
+    "voi": {"conjugation": "scrivevate", "example": "Voi scrivevate poesie.", "score": 0},
+    "loro": {"conjugation": "scrivevano", "example": "Loro scrivevano email.", "score": 0}
+  },
+  "prendere": {
+    "io": {"conjugation": "prendevo", "example": "Io prendevo il treno.", "score": 0},
+    "tu": {"conjugation": "prendevi", "example": "Tu prendevi l'autobus.", "score": 0},
+    "lui_lei": {"conjugation": "prendeva", "example": "Lui prendeva il caffè.", "score": 0},
+    "noi": {"conjugation": "prendevamo", "example": "Noi prendevamo appunti.", "score": 0},
+    "voi": {"conjugation": "prendevate", "example": "Voi prendevate lezioni.", "score": 0},
+    "loro": {"conjugation": "prendevano", "example": "Loro prendevano decisioni.", "score": 0}
+  },
+  "vivere": {
+    "io": {"conjugation": "vivevo", "example": "Io vivevo in città.", "score": 0},
+    "tu": {"conjugation": "vivevi", "example": "Tu vivevi in campagna.", "score": 0},
+    "lui_lei": {"conjugation": "viveva", "example": "Lei viveva in un appartamento.", "score": 0},
+    "noi": {"conjugation": "vivevamo", "example": "Noi vivevamo in Italia.", "score": 0},
+    "voi": {"conjugation": "vivevate", "example": "Voi vivevate bene.", "score": 0},
+    "loro": {"conjugation": "vivevano", "example": "Loro vivevano felici.", "score": 0}
+  },
+  "dormire": {
+    "io": {"conjugation": "dormivo", "example": "Io dormivo profondamente.", "score": 0},
+    "tu": {"conjugation": "dormivi", "example": "Tu dormivi bene.", "score": 0},
+    "lui_lei": {"conjugation": "dormiva", "example": "Lui dormiva a lungo.", "score": 0},
+    "noi": {"conjugation": "dormivamo", "example": "Noi dormivamo in tenda.", "score": 0},
+    "voi": {"conjugation": "dormivate", "example": "Voi dormivate presto.", "score": 0},
+    "loro": {"conjugation": "dormivano", "example": "Loro dormivano poco.", "score": 0}
+  },
+  "finire": {
+    "io": {"conjugation": "finivo", "example": "Io finivo il compito.", "score": 0},
+    "tu": {"conjugation": "finivi", "example": "Tu finivi il libro.", "score": 0},
+    "lui_lei": {"conjugation": "finiva", "example": "Lei finiva la gara.", "score": 0},
+    "noi": {"conjugation": "finivamo", "example": "Noi finivamo insieme.", "score": 0},
+    "voi": {"conjugation": "finivate", "example": "Voi finivate presto.", "score": 0},
+    "loro": {"conjugation": "finivano", "example": "Loro finivano tutto.", "score": 0}
+  },
+  "capire": {
+    "io": {"conjugation": "capivo", "example": "Io capivo la lezione.", "score": 0},
+    "tu": {"conjugation": "capivi", "example": "Tu capivi l'esercizio.", "score": 0},
+    "lui_lei": {"conjugation": "capiva", "example": "Lui capiva tutto.", "score": 0},
+    "noi": {"conjugation": "capivamo", "example": "Noi capivamo il problema.", "score": 0},
+    "voi": {"conjugation": "capivate", "example": "Voi capivate le regole.", "score": 0},
+    "loro": {"conjugation": "capivano", "example": "Loro capivano la situazione.", "score": 0}
+  },
+  "aprire": {
+    "io": {"conjugation": "aprivo", "example": "Io aprivo la porta.", "score": 0},
+    "tu": {"conjugation": "aprivi", "example": "Tu aprivi la finestra.", "score": 0},
+    "lui_lei": {"conjugation": "apriva", "example": "Lei apriva il libro.", "score": 0},
+    "noi": {"conjugation": "aprivamo", "example": "Noi aprivamo i regali.", "score": 0},
+    "voi": {"conjugation": "aprivate", "example": "Voi aprivate le lettere.", "score": 0},
+    "loro": {"conjugation": "aprivano", "example": "Loro aprivano i negozi.", "score": 0}
+  }
+}

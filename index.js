@@ -16,11 +16,23 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // Update selected options when divs are clicked
-    document.querySelectorAll('.option').forEach(option => {
+    document.querySelectorAll('.infinitive').forEach(option => {
         option.addEventListener("click", function() {
             this.classList.toggle('selected');
             const queryString = constructQueryString();
             console.log("Selected options:", queryString);
+        });
+    });
+
+    document.querySelectorAll('.imperfetto').forEach(option => {
+        option.addEventListener("click", function() {
+            window.location.href = `game.html?option=imperfetto`;
+        });
+    });
+
+    document.querySelectorAll('.passato-prossimo').forEach(option => {
+        option.addEventListener("click", function() {
+            window.location.href = `game.html?option=passato_prossimo`;
         });
     });
 
